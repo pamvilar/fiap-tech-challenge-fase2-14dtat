@@ -73,6 +73,5 @@ Durante a exploração inicial dos dados no notebook, foram identificados e trat
 Certifique-se de ter o **Python 3.8+** e o **Jupyter Notebook** (ou VS Code / Google Colab) instalados.
 
 ### 1. Clonar o repositório
-```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-cd seu-repositorio
+git clone https://github.com/seu-usuario-do-github/fiap-tech-challenge-fase2-14dtat.git
+cd fiap-tech-challenge-fase2-14dtat
