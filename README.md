@@ -1,3 +1,21 @@
+## Estrutura do Repositório
+
+```text
+TECH_CHALLENGE_FASE_02
+│
+├── DataSet/
+│   └── WineQT.csv
+│
+├── Notebook/
+│   └── TechChallengeVinhos_Fase02.ipynb
+│
+├── Relatório/
+│   └── Relatório de conclusão da análise
+│
+├── .gitignore
+└── README.md
+```
+
 # 🍷 Tech Challenge - Data Analytics [FASE 02]
 > **Classificação e Preditividade da Qualidade de Vinhos com Machine Learning**
 
