@@ -16,8 +16,6 @@ TECH_CHALLENGE_FASE_02
 ├── .gitignore
 └── README.md
 ```
-[![Vídeo de Apresentação](https://img.youtube.com/vi/68PQ212Fk_I/maxresdefault.jpg)](https://www.youtube.com/watch?v=68PQ212Fk_I)
-
 # 🍷 Tech Challenge - Data Analytics [FASE 02]
 > **Classificação e Preditividade da Qualidade de Vinhos com Machine Learning**
 
@@ -95,3 +93,8 @@ Certifique-se de ter o **Python 3.8+** e o **Jupyter Notebook** (ou VS Code / Go
 ### 1. Clonar o repositório
 git clone https://github.com/pamvilar/fiap-tech-challenge-fase2-14dtat.git
 cd fiap-tech-challenge-fase2-14dtat
+
+---
+
+Assista ao vídeo de apresentação deste Projeto: 
+[![Vídeo de Apresentação](https://img.youtube.com/vi/68PQ212Fk_I/maxresdefault.jpg)](https://www.youtube.com/watch?v=68PQ212Fk_I)
