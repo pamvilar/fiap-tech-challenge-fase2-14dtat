@@ -1,21 +1,3 @@
-## Estrutura do Repositório
-
-```text
-TECH_CHALLENGE_FASE_02
-│
-├── DataSet/
-│   └── WineQT.csv
-│
-├── Notebook/
-│   └── TechChallengeVinhos_Fase02.ipynb
-│
-├── Relatório/
-│   └── relatorio-vinhos-ml-fase2.pdf
-│   └── Classificação da Qualidade dos Vinhos com Machine Learning.pptx
-│
-├── .gitignore
-└── README.md
-```
 # 🍷 Tech Challenge - Data Analytics [FASE 02]
 > **Classificação e Preditividade da Qualidade de Vinhos com Machine Learning**
 
@@ -96,5 +78,27 @@ cd fiap-tech-challenge-fase2-14dtat
 
 ---
 
-Assista ao vídeo de apresentação deste Projeto: 
+## 🎥 Assista ao vídeo de apresentação deste Projeto: 
+
 [![Vídeo de Apresentação](https://img.youtube.com/vi/68PQ212Fk_I/maxresdefault.jpg)](https://www.youtube.com/watch?v=68PQ212Fk_I)
+
+---
+
+## 📂 Estrutura do Repositório
+
+```text
+TECH_CHALLENGE_FASE_02
+│
+├── DataSet/
+│   └── WineQT.csv
+│
+├── Notebook/
+│   └── TechChallengeVinhos_Fase02.ipynb
+│
+├── Relatório/
+│   └── relatorio-vinhos-ml-fase2.pdf
+│   └── Classificação da Qualidade dos Vinhos com Machine Learning.pptx
+│
+├── .gitignore
+└── README.md
+```
